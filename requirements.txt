@@ -1,0 +1,7 @@
+Werkzeug==2.0.2
+Flask_SQLAlchemy==2.5.1
+Flask_HTTPAuth==4.4.0
+Flask==2.0.2
+itsdangerous==2.0.1
+pycryptodome==3.11.0
+PyJWT==2.3.0
